@@ -1,0 +1,1 @@
+const html = _ => _[0]; // For use vscode lit-html extension.

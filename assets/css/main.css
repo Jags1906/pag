@@ -1,0 +1,19 @@
+/* -----Navbar----- */
+.contained {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* -----Footer----- */
+footer.footer {
+  background: #b0bec5;
+  color: black;
+  padding: .1rem;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+footer.footer p.p-footer {
+  text-align: center;
+}
